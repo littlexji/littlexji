@@ -1,18 +1,18 @@
-# Hello! 👋 I'm @littlexji
+Hello! 👋 I'm @littlexji
   
 - Welcome to my GitHub space! I'm an enthusiastic student diving into the world of Interdisciplinary Computing Arts. My journey has just begun, and I'm currently taking baby steps, learning HTML and the basics of web development.
 
-## 🎓 Academic Journey:
+🎓 Academic Journey:
 - Majoring in Interdisciplinary Computing Arts, I'm at the exciting intersection of technology, art, and design.
 
-## 🌱 Currently Learning:
+🌱 Currently Learning:
 - HTML 👶🏻
 - Exploring game design and development basics.
 
-##💡 My goal:
+💡 My goal:
 - To channel my creativity and technical skills into building my own game. 
 
-## 📫 Reach Me:
+📫 Reach Me:
 - Feel free to drop me a message @popweaver or jheek.0414@gmail.com
 <!---
 littlexji/littlexji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
