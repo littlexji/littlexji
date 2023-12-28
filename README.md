@@ -12,8 +12,6 @@ Hello! 👋 I'm @littlexji
 💡 My goal:
 - To channel my creativity and technical skills into building my own game. 
 
-📫 Reach Me:
-- Feel free to drop me a message @popweaver or jheek.0414@gmail.com
 <!---
 littlexji/littlexji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
